@@ -2,7 +2,7 @@
 + I am eager to represent to you my first Dart Project that helps you to calculate your GPA Score.
 
 ## Project Looks
-+ This is how main page looks.
++ This is how main page looks. *Simple yet Effective.*
 
   <img src="assets/main.jpg" width="200">
  
@@ -21,11 +21,11 @@
 ### Example of mentioned situation 
 
 
-> English version of the App Screenshots are below.
+> *English version of the App* Screenshots are below.
 
   <img src="assets/userpagetr.jpg" width="200">   <img src="assets/main.jpg" width="200">
   
-> Turkish version of the App Screenshots are below.
+> *Turkish version of the App* Screenshots are below.
 
   <img src="assets/userpagetr2.jpg" width="200">   <img src="assets/maintr.jpg" width="200">
 
